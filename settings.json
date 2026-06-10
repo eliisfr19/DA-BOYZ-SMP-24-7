@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "DA BOYZ SMP 24/7",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DA BOYZ SMP 24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "daboyz-EVTa.aternos.me",
+    "port": 11149,
     "version": "",
     "try-creative": false
   },
