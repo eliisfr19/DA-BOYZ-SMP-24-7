@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "daboyz-EVTa.aternos.me",
-    "port": 11149,
-    "version": "",
+    "ip": "DABOYZSMP-YXKl.aternos.me",
+    "port": 11187,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "helloeli"
     },
     "anti-afk": {
       "enabled": true,
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
